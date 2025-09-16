@@ -33,7 +33,7 @@ The strategy is then backtested on historical stock data to evaluate performance
 
 Example output chart:
 
-![Strategy Chart](Graph/Figure.png)  
+![Strategy Chart](Figure.png)  
 *Green triangles = Buy signals, Red triangles = Sell signals*
 
 ---
